@@ -89,6 +89,9 @@ n8n/Type Form : modification du prompt et nouvelle génération du compte rendu 
 
 ## Étapes du workflow
 
+<img width="4494" height="2742" alt="Bot IA Visio TLDV - Re traitement (1)" src="https://github.com/user-attachments/assets/80077f2a-7495-4672-8870-a835ee7d9427" />
+
+
 ### 1. Enregistrement de la visioconférence
 
 Le logiciel sélectionné pour la captation est TL;DV, il se connecte au logiciel de visioconférence utilisé par les collaborateurs. Le choix de TL;DV, provient du fait qu'il propose une version gratuite sans limite de captation, avec une transcription de qualité et une connexion native possible à Zapier (idéal pour l'extraction automatique des transcriptions).
