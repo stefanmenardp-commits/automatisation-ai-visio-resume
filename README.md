@@ -186,3 +186,6 @@ Ce projet m'a permis de développer et de mettre en œuvre mes compétences dans
 - autonomnie dans la gestion d'un projet et la communication avec un client
 - utilisation de logiciel no code/low code (n8n et zapier)
 - optimisation et règles de prompting selon les LLM
+
+Pour ce qui est des outils, j'ai développé des compétences dans ceux qui sont présents dans la partie stack technique.
+
